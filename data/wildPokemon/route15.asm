@@ -5,7 +5,7 @@ Route15Mons:
 		db 26,DITTO
 		db 23,PIDGEY
 		db 26,VENONAT
-		db 22,ODDISH
+		db 22,BELLSPROUT
 		db 28,VENONAT
 		db 26,ODDISH
 		db 30,GLOOM
@@ -17,7 +17,7 @@ Route15Mons:
 		db 26,DITTO
 		db 23,PIDGEY
 		db 26,VENONAT
-		db 22,BELLSPROUT
+		db 22,ODDISH
 		db 28,VENONAT
 		db 26,BELLSPROUT
 		db 30,WEEPINBELL
