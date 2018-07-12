@@ -22,6 +22,6 @@ MansionMons3:
 		db 34,KOFFING
 		db 42,WEEZING
 		db 36,PONYTA
-		db 42,CHARMANDER
+		db 12,CHARMANDER
 	ENDC
 	db $00
