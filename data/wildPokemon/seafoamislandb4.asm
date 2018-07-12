@@ -8,7 +8,7 @@ IslandMonsB4:
 		db 29,SLOWPOKE
 		db 31,SEEL
 		db 31,SLOWPOKE
-		db 29,SEEL
+		db 29,JYNX
 		db 39,SLOWBRO
 		db 32,GOLBAT
 	ENDC
@@ -20,7 +20,7 @@ IslandMonsB4:
 		db 29,PSYDUCK
 		db 31,SEEL
 		db 31,PSYDUCK
-		db 29,SEEL
+		db 29,JYNX
 		db 39,GOLDUCK
 		db 32,GOLBAT
 	ENDC
