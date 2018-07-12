@@ -88,7 +88,7 @@ FishingGroup8:
 FishingGroup9:
 	db 4
 	db 23,SLOWBRO
-	db 23,SEAKING
+	db 23,LAPRAS
 	db 23,KINGLER
 	db 23,SEADRA
 
