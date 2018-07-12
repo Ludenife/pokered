@@ -10,7 +10,7 @@ Route13Mons:
 		db 26,BELLSPROUT
 		db 25,DITTO
 		db 28,GLOOM
-		db 30,WEEPINBELL
+		db 24,FARFETCHD
 	ENDC
 	IF DEF(_BLUE)
 		db $14
@@ -23,6 +23,6 @@ Route13Mons:
 		db 26,ODDISH
 		db 25,DITTO
 		db 28,WEEPINBELL
-		db 30,GLOOM
+		db 24,FARFETCHD
 	ENDC
 	db $00
