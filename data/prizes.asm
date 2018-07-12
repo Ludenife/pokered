@@ -15,10 +15,10 @@ PrizeMenuMon1Entries:
 	db ABRA
 	db CLEFAIRY
 IF DEF(_RED)
-	db NIDORINA
+	db EEVEE
 ENDC
 IF DEF(_BLUE)
-	db NIDORINO
+	db EEVEE
 ENDC
 	db "@"
 
@@ -36,12 +36,12 @@ ENDC
 
 PrizeMenuMon2Entries:
 IF DEF(_RED)
-	db DRATINI
+	db MR_MIME
 	db SCYTHER
 ENDC
 IF DEF(_BLUE)
 	db PINSIR
-	db DRATINI
+	db MR_MIME
 ENDC
 	db PORYGON
 	db "@"
