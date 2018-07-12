@@ -10,7 +10,7 @@ IslandMonsB4:
 		db 31,SLOWPOKE
 		db 29,JYNX
 		db 39,SLOWBRO
-		db 32,GOLBAT
+		db 12,SQUIRTLE
 	ENDC
 	IF DEF(_BLUE)
 		db 31,KRABBY
@@ -22,6 +22,6 @@ IslandMonsB4:
 		db 31,PSYDUCK
 		db 29,JYNX
 		db 39,GOLDUCK
-		db 32,GOLBAT
+		db 12,SQUIRTLE
 	ENDC
 	db $00
