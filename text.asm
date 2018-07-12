@@ -3135,7 +3135,7 @@ _AfterTrade2Text::
 	text " you"
 	line "traded to me"
 
-	para "went and evolved!"
+	para "is doing great!"
 	done
 
 _WannaTrade3Text::
